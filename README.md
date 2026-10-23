@@ -9,6 +9,7 @@
 - 在系统设置中提供“解除 MC 下载限制”按钮。
 - 点击按钮后显示确认弹窗，说明个人制作、与 PCL 官方无关及学习用途；选择“继续”后解除本次运行的下载限制，选择“取消”则保留限制。
 - 下载相关改动覆盖 Minecraft、Mod、整合包、数据包、资源包及光影包，并接入资源详情页的下载入口。
+- 解锁后可拖入整合包 ZIP 自动安装，也可通过手动选择入口安装；恢复 CurseForge、Modrinth、HMCL、MMC、MCBBS、启动器包和普通压缩包识别。
 - 屏蔽 PCL 启动器自身的更新检查入口、更新下载启动、更新重启与程序替换。
 
 ## 使用
@@ -24,7 +25,7 @@
 | 文件 | SHA256 |
 | --- | --- |
 | 原始 PCL 2.99.0.0 EXE | `6B6E1260CB5A1D6A303855F1C60CAB3D0BC1AEBBA7E40A964180188B271E7386` |
-| 本仓库 Release 补丁版 EXE | `883AF0EC069F1986648F98A7DF975CFF6205A94CBB00ACBD37C926EADD0DCEA3` |
+| 本仓库 Release 补丁版 EXE（patch.2） | `2A2FF0B156E229556DFAF0BB4EC619E45843E8D41941E23A798F76F6876CAB2A` |
 
 Release 附有 `SHA256SUMS.txt`。可在 PowerShell 中核对：
 
